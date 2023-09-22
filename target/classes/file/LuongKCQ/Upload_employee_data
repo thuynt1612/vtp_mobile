@@ -1,0 +1,5 @@
+{
+  "multipartFile": "${{filePath}}",
+  "orgCode": "${{orgCode}}",
+  "periodId": ${{periodId}}
+}

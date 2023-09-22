@@ -1,0 +1,13 @@
+{
+    "buucuc_goc": "",
+    "loai_hh": "${{loai_hh}}",
+    "ma_dv": "${{ma_dv}}",
+    "ma_dv_congthem": "${{ma_dv_congthem}}",
+    "ma_kh": "",
+    "ngay": "21-03-2023",
+    "thu_ho": ${{thu_ho}},
+    "tien_kg": ${{tien_kg}},
+    "trong_luong": ${{trong_luong}},
+    "vung_phat": "${{vung_phat}}",
+    "vung_phat_h": "${{vung_phat_h}}"
+}

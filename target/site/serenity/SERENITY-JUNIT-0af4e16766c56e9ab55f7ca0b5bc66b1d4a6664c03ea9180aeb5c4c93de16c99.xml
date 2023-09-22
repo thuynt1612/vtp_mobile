@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="3" name="Tinh gia cuoc chinh" skipped="0" tests="3" time="10.53" timestamp="2023-06-25 08:12:56"><testcase name="Tinh gia cho dich vu chinh"><failure message="expected:&lt;0&gt; but was:&lt;44545&gt;" type="java.lang.AssertionError">expected:&lt;0&gt; but was:&lt;44545&gt;</failure><system-err>expected:&lt;0&gt; but was:&lt;44545&gt;&#13;
+steps.TinhCuoc.TinhCuocStep.verifyCuoc(TinhCuocStep.java:198)&#13;
+✽.Verify gia cuoc nhan duoc(file:///D:/VTP/AUTOTEST/LUONG/src/test/java/features/TinhCuoc/TinhCuoc.feature:12)&#13;
+</system-err></testcase></testsuite>

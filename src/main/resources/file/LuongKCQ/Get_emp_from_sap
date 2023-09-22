@@ -1,0 +1,29 @@
+{
+    "SourceSystem": "LEASE",
+    "LastChangedFrom": "",
+    "LastChangedTo": "",
+    "EffectiveDate": "${{EffectiveDate}}",
+    "OrgId": "${{ObjId}}",
+    "InfoTypes": [
+        {
+            "InfoTypeId": "0001"
+        },
+        {
+            "InfoTypeId": "0002"
+        },
+        {
+            "InfoTypeId": "0008"
+        },
+        {
+            "InfoTypeId": "0016"
+        },
+        {
+            "InfoTypeId": "9012"
+        }
+    ],
+    "Parameters": [
+        {
+                "Employee": ""
+        }
+    ]
+}

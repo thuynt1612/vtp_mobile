@@ -1,0 +1,10 @@
+{
+    "username": "${{username}}",
+    "password": "${{password}}",
+    "postoffice": "${{postoffice}}",
+    "source": -10,
+    "latitude": 0,
+    "longtitude": 0,
+    "DeviceID": "string",
+    "uniqueID": "string"
+}

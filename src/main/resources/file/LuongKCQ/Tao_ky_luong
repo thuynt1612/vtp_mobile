@@ -1,0 +1,6 @@
+{
+  "name": "${{name}}",
+  "startDate": "${{startDate}}",
+  "endDate": "${{endDate}}",
+  "type": "string"
+}

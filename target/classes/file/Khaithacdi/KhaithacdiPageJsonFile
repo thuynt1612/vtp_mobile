@@ -1,0 +1,5 @@
+{
+    "Tỉnh/TP": "${{city}}",
+    "Chọn Quận/Huyện": "${{district}}",
+    "Chọn Phường/Xã": "${{wards}}"
+}
